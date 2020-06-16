@@ -34,3 +34,4 @@ Through Blockchain the election system can be made more transparent, convenient 
 
 To simplify it, blockchain is a chain of digital blocks that contain the records if the information or transactions sent across. According to IBM’s Blockchain blog, any hacker would need to change the block containing the record, along with the ones connected to it to avoid detection, making the blockchain difficult to tamper with.
 
+![Image-Face](Images/Capture6.PNG)
